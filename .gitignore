@@ -1,1 +1,15 @@
 osint_results/
+
+# Secrets-Schutz (ergaenzt 2026-11-21)
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+*.gpg
+*secret*
+*token*
+provider-config.yaml
+auth.json
+credentials.json
